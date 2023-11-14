@@ -53,14 +53,14 @@ section {
 }
 
 .conservation-background {
-    background-image:url(/bg.png);
+    background-image:url(bg.png);
     color: #fff;
     padding: 50px 0;
     text-align: center;
 }
 
 #join:hover {
-    background-image:url(/bg.png);
+    background-image:url(bg.png);
 }
 
 #contribute ul {
