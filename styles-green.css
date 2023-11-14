@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-image:url(/bg.png);
+    background-image:url(bg.png);
     color: #fff;
     padding: 1em 0;
 }
